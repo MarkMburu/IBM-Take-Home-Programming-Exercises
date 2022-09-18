@@ -3,8 +3,8 @@
 ### NOTE: This project uses python 3.x
 ## How To Run The Project
 
-$ python main.py
+    python main.py
 
 ## UnitTest
 
-$ py.test test_mars_rover.py
+    py.test test_mars_rover.py
