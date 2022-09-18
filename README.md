@@ -1,6 +1,6 @@
 # IBM-Take-Home-Programming-Exercises
 
-### NOTE: This project uses python 3.x
+### NOTE: This is the solution to  Problem One: Mars Rover and it  uses python 3.x
 ## How To Run The Project
 
     python main.py
